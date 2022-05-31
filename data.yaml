@@ -1,0 +1,8 @@
+path: ../
+names:
+- head
+- helmet
+- person
+nc: 3
+train: Hard-Hat-Sample-2/train/images
+val: Hard-Hat-Sample-2/valid/images
